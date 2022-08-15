@@ -1,0 +1,15 @@
+import React from 'react'
+
+function AddEmployee() {
+  return (
+    <div className='flex max-w-2xl sha'>
+        <div className='px-8 py-8'>
+            <div className="">
+                <p>Add New Employee</p>
+            </div>
+        </div>
+    </div>
+  )
+}
+
+export default AddEmployee
